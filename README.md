@@ -1,4 +1,4 @@
-# Second-Largest-gkg-Day1
+# Second-Largest-gkg
 Explanation:
 first: holds the largest number.
 
